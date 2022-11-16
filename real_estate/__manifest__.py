@@ -1,6 +1,6 @@
 {
     'name': "Estate",
-    'version': '15.0.0.1',
+    'version': '15.0.0.3',
     'depends': ['base'],
     'author': "Yo",
     'category': 'Real Estate/Brokerage',
